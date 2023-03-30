@@ -2,8 +2,9 @@
 # Introdução
 Este arquivo Power BI foi criado para o desafio de Business Intelligence proposto pela plataforma Alura. O desafio consistia em criar um dashboard que permitisse a análise de dados de logística de uma empresa fictícia.
 
-![Alt Text](./Alura_logistica/BG/img_1.png)
-
+![Dashboard 1](./BI_Desafio_1/Alura_logistica/BG/img_1.png)
+<br><br>
+![Dashboard 1](./BI_Desafio_1/Alura_logistica/BG/img_2.png)
 # Funcionalidades
 O dashboard contém diversas funcionalidades que permitem a visualização e análise dos dados de logística da empresa. Algumas das principais funcionalidades são:
 
